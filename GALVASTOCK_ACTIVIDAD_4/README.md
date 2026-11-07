@@ -11,6 +11,7 @@ Prototipo académico desarrollado con PHP, MySQL, HTML y CSS, pensado para ejecu
 - Ajustes/correcciones con motivo obligatorio.
 - Traslados de ubicación.
 - Historial de movimientos con stock anterior y posterior.
+- Generación de reportes con indicadores de inventario, productos con bajo stock y movimientos recientes.
 
 ## Requisitos
 - XAMPP con Apache, MySQL y PHP.
@@ -52,3 +53,7 @@ Prototipo académico desarrollado con PHP, MySQL, HTML y CSS, pensado para ejecu
 - `despachos/`: registro y consulta de despachos.
 - `movimientos/`: entradas, devoluciones, ajustes, traslados e historial.
 - `assets/`: estilos visuales.
+- `entradas/`: registro y consulta de entradas.
+- `salidas/`: registro y consulta de salidas.
+- `reportes/`: consulta de indicadores y reportes del inventario.
+
