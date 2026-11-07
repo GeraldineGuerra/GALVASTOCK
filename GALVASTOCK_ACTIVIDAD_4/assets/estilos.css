@@ -1,0 +1,15 @@
+/* Diagnóstico y corrección de campos */
+.form-grid input,
+.form-grid select,
+.form-grid textarea {
+    display: block !important;
+    visibility: visible !important;
+    pointer-events: auto !important;
+    user-select: text !important;
+    -webkit-user-select: text !important;
+    opacity: 1 !important;
+    position: relative !important;
+    z-index: 10 !important;
+    background-color: #ffffff !important;
+    color: #182538 !important;
+}
