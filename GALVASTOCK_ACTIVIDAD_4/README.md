@@ -56,4 +56,3 @@ Prototipo académico desarrollado con PHP, MySQL, HTML y CSS, pensado para ejecu
 - `entradas/`: registro y consulta de entradas.
 - `salidas/`: registro y consulta de salidas.
 - `reportes/`: consulta de indicadores y reportes del inventario.
-
