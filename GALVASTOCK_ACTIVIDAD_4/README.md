@@ -54,5 +54,5 @@ Prototipo académico desarrollado con PHP, MySQL, HTML y CSS, pensado para ejecu
 - `movimientos/`: entradas, devoluciones, ajustes, traslados e historial.
 - `assets/`: estilos visuales.
 - `entradas/`: registro y consulta de entradas.
-- `salidas/`: registro y consulta de salidas.
+- `salidas/` : registro y consulta de salidas.
 - `reportes/`: consulta de indicadores y reportes del inventario.
